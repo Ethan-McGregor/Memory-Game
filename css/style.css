@@ -1,0 +1,33 @@
+
+.grid,button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+   
+}
+header{
+    text-align:center;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: grey;
+    
+}
+
+
+a{
+ 
+    background-color: #b3b3ff;
+    border-style:  solid;
+    border-color: black;
+    border-width: 2px;
+    margin-left:40%;
+    margin-right:40%;
+    font-size: 2em;
+    border-radius: 8px;
+    
+}
